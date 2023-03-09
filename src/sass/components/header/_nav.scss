@@ -52,7 +52,7 @@
   }
 
   li {
-    color: var(--titles-color);
+    color: #ffffff;
     letter-spacing: 0.3px;
     font-size: 1.125rem;
     margin-bottom: 15px;
@@ -124,7 +124,7 @@
       width: 20px;
       height: 100%;
       z-index: 2;
-      background: linear-gradient(90deg, var(--header-menu-gradient-first-color) 0, var(--header-menu-gradient-second-color));
+      
     }
   }
 }
